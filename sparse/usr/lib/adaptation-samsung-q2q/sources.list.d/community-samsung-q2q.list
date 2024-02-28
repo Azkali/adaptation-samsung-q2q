@@ -1,1 +1,2 @@
 # You can add here your custom apt repositories
+deb [signed-by=/usr/share/keyrings/q2q.gpg] https://droid2q.azka.li bookworm main
