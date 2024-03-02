@@ -1,2 +1,2 @@
 # You can add here your custom apt repositories
-deb [signed-by=/var/lib/extrepo/keys/droidian-q2q.asc] https://droid2q.azka.li/ bookworm main
+deb [signed-by=/var/lib/extrepo/keys/droidian-q2q.asc] https://droid2q.azka.li/ trixie main
