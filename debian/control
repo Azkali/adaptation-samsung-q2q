@@ -1,0 +1,19 @@
+Source: adaptation-samsung-q2q
+Maintainer: Azkali Manad <a.ffcc7@gmail.com>
+Section: metapackages
+Priority: optional
+Build-Depends: debhelper (>= 10),
+               debhelper-compat (= 13),
+Standards-Version: 4.5.0.3
+
+Package: adaptation-samsung-q2q
+Architecture: arm64
+Depends: ${misc:Depends},
+         adaptation-hybris-api30-phone,
+         adaptation-samsung-q2q-configs (= ${binary:Version}),
+Description: Community adaptation for samsung-q2q - metapackage
+
+Package: adaptation-samsung-q2q-configs
+Architecture: arm64
+Depends: ${misc:Depends},
+Description: Community adaptation for samsung-q2q - adaptation configurations

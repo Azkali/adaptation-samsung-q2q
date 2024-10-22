@@ -1,0 +1,2 @@
+/usr/lib/adaptation-samsung-q2q/sources.list.d/community-samsung-q2q.list /etc/apt/sources.list.d/community-samsung-q2q.list
+/usr/lib/adaptation-samsung-q2q/trusted.gpg.d/community-samsung-q2q.gpg /etc/apt/trusted.gpg.d/community-samsung-q2q.gpg
